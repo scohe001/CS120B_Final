@@ -1,3 +1,12 @@
+/*
+* Stanley Cohen
+* UCR CS120B Winter 2016
+* joystick.h
+* 
+* Read an (x,y) val from the joystick and interpret it as a cardinal
+* cardinal direction (denoted by enum Positions)
+*/
+
 #include <avr/io.h>
 
 signed short xAxis, yAxis;

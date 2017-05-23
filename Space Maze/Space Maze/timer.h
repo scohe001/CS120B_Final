@@ -1,3 +1,11 @@
+/*
+* Stanley Cohen
+* UCR CS120B Winter 2016
+* timer.h
+* 
+* Mostly taken from class. Had to change which timers were being used.
+*/
+
 #include <avr/io.h>
 #include <avr/interrupt.h>
 

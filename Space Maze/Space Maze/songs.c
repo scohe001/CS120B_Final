@@ -1,3 +1,13 @@
+/*
+* Stanley Cohen
+* UCR CS120B Winter 2016
+* songs.c
+* 
+* Controls music for the game. Definitely spent more time on this than
+* I should've, but it works friggin amazingly. Got some awesome audio
+* with the dual speaker setup.
+*/
+
 #ifndef __SONGS__
 #define __SONGS__
 

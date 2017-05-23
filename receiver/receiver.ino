@@ -1,3 +1,11 @@
+/*
+* Stanley Cohen
+* UCR CS120B Winter 2016
+* receiver.ino
+* 
+* Receives Serial input from the Atmega1284 to control the LED Matrix
+*/
+
 #include <StandardCplusplus.h>
 #include <SoftwareSerial.h>
 #include <Adafruit_GFX.h>   // Core graphics library

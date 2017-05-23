@@ -1,3 +1,11 @@
+/*
+* Stanley Cohen
+* UCR CS120B Winter 2016
+* arduino.h
+* 
+* Controls the sending of commands to the Arduino
+*/
+
 #ifndef __ARDUINO__
 #define __ARDUINO__
 

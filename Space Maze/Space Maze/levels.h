@@ -1,3 +1,11 @@
+/*
+* Stanley Cohen
+* UCR CS120B Winter 2016
+* arduino.h
+* 
+* Store matrixes for all levels
+*/
+
 #ifndef __LEVELS__
 #define __LEVELS__
 
